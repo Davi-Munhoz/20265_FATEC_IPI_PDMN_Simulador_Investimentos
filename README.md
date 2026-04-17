@@ -1,4 +1,4 @@
-# Projeto
+# Projeto Simulador de Investimento
 
 ## Integrantes
 
